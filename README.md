@@ -1,6 +1,6 @@
 # txanponen-kata
 
-Kata bat programazio ariketa bat da, garatzaileon programazio-gaitasunak hobetu eta beste batzuekin batera garatzen ikasteko.
+[Kata](https://www.google.com/search?q=programming+kata) bat programazio ariketa bat da, garatzaileon programazio-gaitasunak hobetu eta beste batzuekin batera garatzen ikasteko.
 
 Normalean ariketa sinple-sinpleak izaten dira, bikoteka ebaztekoak eta teknika desberdinak erabiliz elkarren arteko komunikazioa ahalbidetzen dute. Lehenengo fase baten bikoteko batek garatu dezake eta denbora bat pasatuta besteak; edo denbora bat pasatuta beste bikotekide batekin landu dezakezu ariketa. Hainbat modu daude.
 
