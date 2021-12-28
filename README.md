@@ -16,3 +16,11 @@ Zuzenekoan ikusi ditugun arazo batzuk hemen zerrendatuta:
 - [Ariketaren jatorrizko enuntziatua](https://katayuno-app.herokuapp.com/katas/27)
 - Koma higikorreko aritmetika: [Wikipediako azalpena](https://en.wikipedia.org/wiki/Floating-point_arithmetic) [pythonen azalpena](https://stackoverflow.com/questions/588004/is-floating-point-math-broken)
 - [Test automatikoak exekutatzeko konfigurazioa Github Actions erabiliz](https://github.com/erral/txanponen-kata/blob/master/.github/workflows/python-app.yml)
+
+# Zuzeneko emanaldia
+
+Ariketa honen ebazpena [Twitch plataforman zuzenean egin nuen](https://www.twitch.tv/videos/1246063743) eta [YouTuben]() gelditu da artxibatuta
+
+# Lizentzia
+
+GPLv3
