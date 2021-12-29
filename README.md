@@ -20,7 +20,7 @@ Zuzenekoan ikusi ditugun arazo batzuk hemen zerrendatuta:
 
 # Zuzeneko emanaldia
 
-Ariketa honen ebazpena [Twitch plataforman zuzenean egin nuen](https://www.twitch.tv/videos/1246063743) eta [YouTuben]() gelditu da artxibatuta
+Ariketa honen ebazpena [Twitch plataforman zuzenean egin nuen](https://www.twitch.tv/videos/1246063743) eta [YouTuben](https://www.youtube.com/watch?v=x6mn33ubaUs) gelditu da artxibatuta
 
 # Lizentzia
 
